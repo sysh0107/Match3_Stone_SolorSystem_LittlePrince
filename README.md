@@ -1,4 +1,4 @@
-# Match3_Stone_Solor_System
+# Match3_Stone_SolorSystem_LittlePrince
 
 어린 왕자
 행성의 돌
